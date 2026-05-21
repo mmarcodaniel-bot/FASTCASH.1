@@ -29,26 +29,32 @@ FastCash resuelve los tres problemas en un solo lugar:
 
 ## Los Clientes
 
-**Cliente 1 — El Freelancer Perdido**
-Trabaja por proyectos, cobra de formas distintas y al final del mes no entiende cuánto ganó ni cuánto gastó. Necesita orden financiero urgente y herramientas que funcionen con ingresos variables. Es nuestro cliente más inmediato y el más fácil de conquistar porque su dolor es diario y concreto.
+**Cliente 1 — El Freelancer Perdido:** Trabaja por proyectos, cobra de formas distintas y al final del mes no entiende cuánto ganó ni cuánto gastó. Necesita orden financiero urgente y herramientas que funcionen con ingresos variables. Es nuestro cliente más inmediato y el más fácil de conquistar porque su dolor es diario y concreto.
 
-**Cliente 2 — El Emprendedor Desbordado**
-Tiene un negocio pequeño que gestiona entre WhatsApp, Excel y su memoria. Trabaja doce horas pero siente que no avanza porque no tiene visibilidad real de su negocio. Necesita un sistema que centralice clientes, proyectos, cobros y finanzas sin ser complicado ni caro.
+**Cliente 2 — El Emprendedor Desbordado:** Tiene un negocio pequeño que gestiona entre WhatsApp, Excel y su memoria. Trabaja doce horas pero siente que no avanza porque no tiene visibilidad real de su negocio. Necesita un sistema que centralice clientes, proyectos, cobros y finanzas sin ser complicado ni caro.
 
-**Cliente 3 — El Profesional Independiente**
-Tiene ingresos estables pero no sabe ahorrar ni invertir. Usa tres apps para organizar su trabajo y ninguna le funciona del todo. Quiere rendir más y tomar mejores decisiones financieras sin convertirse en un experto en tecnología.
+**Cliente 3 — El Profesional Independiente:** Tiene ingresos estables pero no sabe ahorrar ni invertir. Usa tres apps para organizar su trabajo y ninguna le funciona del todo. Quiere rendir más y tomar mejores decisiones financieras sin convertirse en un experto en tecnología.
 
-**Cliente 4 — La Pequeña Empresa**
-Maneja información sensible de clientes y necesita contratos, facturación y gestión de proyectos en un entorno seguro. Le preocupa la privacidad de sus datos y busca una solución profesional a un precio accesible.
+**Cliente 4 — La Pequeña Empresa:** Maneja información sensible de clientes y necesita contratos, facturación y gestión de proyectos en un entorno seguro. Le preocupa la privacidad de sus datos y busca una solución profesional a un precio accesible.
 
 ---
 
-## En Resumen
+## ¿Qué Tecnología Utiliza FastCash?
 
-| | Problema | Solución | Cliente |
-|---|---|---|---|
-| **1** | No sé a dónde va mi dinero | IA financiera personalizada | Freelancer |
-| **2** | Trabajo mucho pero rindo poco | Productividad inteligente | Emprendedor |
-| **3** | Mis datos están expuestos | Blockchain privada e inviolable | Profesional y empresa |
-
-> **Un problema, tres dimensiones. Una solución, tres módulos. Un cliente, cuatro rostros distintos del mismo dolor.**
+| Capa | Tecnología | Para qué sirve |
+|---|---|---|
+| App móvil | React Native | iOS y Android desde un mismo código |
+| Plataforma web | Next.js | Acceso desde cualquier navegador |
+| Servidor principal | Node.js + Express | Gestiona todas las solicitudes de la app |
+| Inteligencia Artificial | Python + Prophet + LSTM | Analiza gastos, predice y recomienda |
+| Lenguaje de IA | NLP con modelos GPT | Interpreta tareas en lenguaje cotidiano |
+| Base de datos principal | PostgreSQL | Almacena perfiles, transacciones y configuraciones |
+| Base de datos dinámica | MongoDB | Registra actividad y comportamiento del usuario |
+| Velocidad en tiempo real | Redis | Respuestas instantáneas y sesiones activas |
+| Blockchain | Polygon | Contratos inteligentes y privacidad de datos |
+| Almacenamiento privado | IPFS | Archivos descentralizados sin servidor central |
+| Cifrado | AES-256 + ECDSA | Protege toda la información del usuario |
+| Infraestructura cloud | AWS + Docker + Kubernetes | Estabilidad y escalabilidad del sistema |
+| Conexión bancaria | Belvo + Plaid | Sincronización con cuentas bancarias reales |
+| Pagos | Stripe | Procesamiento de cobros dentro de la plataforma |
+| Facturación | API SRI Ecuador / DIAN Colombia | Emisión de facturas electrónicas legales |
