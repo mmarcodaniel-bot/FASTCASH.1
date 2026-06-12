@@ -1,4 +1,6 @@
-# 💵 FastCash
+# 💵 FastNet
+
+Nota de Autor: Algunos archivos y Docuemntos tienen el nombre de FastCash, lamentablemente, por falta de tiempo, NO se pudo CAMBIAR los titulos de algunos Documentos a el nombre oficial actualizado.
 
 > **El copiloto financiero que los freelancers siempre merecieron.**
 
@@ -6,7 +8,7 @@
 
 ## ¿Qué es FastCash?
 
-FastCash es una plataforma fintech impulsada por inteligencia artificial, diseñada específicamente para **freelancers, emprendedores y trabajadores independientes de América Latina**. No se limita a registrar movimientos financieros: los interpreta, predice patrones y genera recomendaciones accionables a través de **FASTY**, nuestro motor de IA.
+FastCash es una plataforma fintech impulsada por inteligencia artificial, diseñada específicamente para **freelancers, emprendedores y trabajadores independientes de América Latina**. No se limita a registrar movimientos financieros: los interpreta, predice patrones y genera recomendaciones accionables a través de **FASTY**, nuestro motor de IA, proximamente en nuestra... ¡¡¡ VERSION v3.1.0 !!! tendremos NUEVAS FUNCIONES como la posibilidad de conectar cuentas bancarias y WALLETS de cripto, ademas, la posibilidad de hacer transacciones desde la app y que FASTY pueda hacerlas solo, tambien, actualizaremos la version de FASTY para que sea mas potente sin gastar tantos tokens.
 
 ---
 
